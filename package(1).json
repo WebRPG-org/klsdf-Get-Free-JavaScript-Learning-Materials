@@ -1,0 +1,25 @@
+{
+  "name": "ying_xue",
+  "main": "index.html",
+  "nodejs": true,
+  "node-main": "js/preload.js",
+  "window": {
+    "title": "",
+    "toolbar": true,
+    "width": 816,
+    "height": 624,
+    "icon": "icon/icon.png",
+    "fullscreen": false,
+    "resizable": false
+  },
+  "version": "0.0.1",
+  "description": "***",
+  "scripts": {
+    "test": "yingxue run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.4"
+  }
+}

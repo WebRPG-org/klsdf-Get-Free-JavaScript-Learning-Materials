@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"主角","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":43,"dataId":3,"value":1},{"code":43,"dataId":4,"value":1},{"code":43,"dataId":5,"value":1},{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"你","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"女主","traits":[],"initialLevel":1,"maxLevel":99,"name":"萤雪","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"映月行走图","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"映月","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"林玲","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
